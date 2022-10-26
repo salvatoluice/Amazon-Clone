@@ -29,6 +29,9 @@
     margin-top: 10px;
     border-color: #a88734 #9c7e31 #846a29;
     color: #111;
+    cursor: pointer;
+    padding: 0.4rem 0.4rem;
+    outline: none;
   }
   
   .product_price {
@@ -38,6 +41,4 @@
   .product_info {
     height: 100px;
     margin-bottom: 15px;
-    /* display: flex;
-    flex-direction: column; */
   }

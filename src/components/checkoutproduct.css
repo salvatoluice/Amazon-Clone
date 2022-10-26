@@ -6,10 +6,7 @@
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
     padding: 2rem 1rem;
     border-radius: 8px;
-    margin-left: 2%;
-}
-.checkoutproduct:hover {
-    box-shadow: none;
+    margin-left: 3%;
 }
 
 .checkoutproduct_info {
@@ -24,14 +21,10 @@
     color: #111;
     cursor: pointer;
     padding: 0.4rem 0.4rem;
-    border-radius: 6px;
     outline: none;
 }
 
-.checkoutproduct_info > button:hover {
-    background: transparent;
-    border: 2px solid #f0c14b;
-}
+
 
 .checkoutproduct_image {
     object-fit: contain;
