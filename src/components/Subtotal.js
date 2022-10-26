@@ -28,7 +28,7 @@ const Subtotal = () => {
         value={getBasketTotal(basket)}
         displayType={"text"}
         thousandSeparator={true}
-        prefix={"Ksh "}
+        prefix={"Ksh. "}
       />
 
       <button>Proceed to Checkout</button>
